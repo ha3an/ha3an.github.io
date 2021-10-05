@@ -33,7 +33,7 @@ Research Experience
 ----
 ### Ohio State University
 <ul class='twocol' markdown='1'>
-<li>Graduate Research Assistant, Perception and Neurodynamics Laboratory, May 2018 – Present</li>
+<li>Research Assistant, Perception and Neurodynamics Laboratory, May 2018 – Present</li>
 </ul>
 ### Microsoft Research
 <ul class='twocol' markdown='1'>
