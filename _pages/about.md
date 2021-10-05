@@ -33,7 +33,7 @@ Research Experience
 ----
 ### Ohio State University
 <ul class='twocol' markdown='1'>
-<li>Graduate Research Assistant, [[Perception&nbsp;and&nbsp;Neurodynamics&nbsp;Laboratory](https://web.cse.ohio-state.edu/~wang.77/pnl/)], May 2018 – Present</li>
+<li>Graduate Research Assistant, [[Perception&nbsp;and&nbsp;Neurodynamics&nbsp;Laboratory](https://web.cse.ohio-state.edu/~wang.77/pnl/)] , May 2018 – Present</li>
 </ul>
 ### Microsoft Research
 <ul class='twocol' markdown='1'>
