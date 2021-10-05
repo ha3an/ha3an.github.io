@@ -31,15 +31,15 @@ Publications
 
 Research Experience
 ----
-#### Ohio State University
+### Ohio State University
 <ul class='twocol' markdown='1'>
-<li>Graduate Research Assistant, [[Perception and Neurodynamics Laboratory](https://web.cse.ohio-state.edu/~wang.77/pnl/)], May 2018 – Present</li>
+<li>Graduate Research Assistant, [Perception and Neurodynamics Laboratory](https://web.cse.ohio-state.edu/~wang.77/pnl/), May 2018 – Present</li>
 </ul>
-#### Microsoft Research
+### Microsoft Research
 <ul class='twocol' markdown='1'>
 <li>Research Intern, Azure Cognitive Services, May 2021 – August 2021</li>
 </ul>
-#### Apple Inc.
+### Apple Inc.
 <ul class='twocol' markdown='1'>
 <li>Research Intern, Interactive Media Group, June 2020 – August 2020</li>
 </ul>
