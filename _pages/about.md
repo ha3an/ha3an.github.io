@@ -21,7 +21,16 @@ This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.os
 Publications
 ----
 
-0. **Deep learning based speaker separation and dereverberation can generalize across different languages to improve intelligibility**, *JASA'21* [[pdf](https://web.cse.ohio-state.edu/~wang.77/papers/Taherian-Wang.icassp21.pdf)]
+
+0. **Multi-channel Talker-independent Speaker Separation Through Location-based Training**, *IEEE/ACM TASLP'22* to appear,
+<br><i>Hassan Taherian</i>, Ke Tan, and DeLiang Wang
+0. **One model to enhance them all: array geometry agnostic multi-channel personalized speech enhancement**, *ICASSP'22* [[pdf](https://arxiv.org/pdf/2110.10330.pdf)]
+<br><i>Hassan Taherian</i>, Sefik Emre Eskimez, Takuya Yoshioka, Huaming Wang, Zhuo Chen, and Xuedong Huang
+0. **Location-based training for multi-channel talker-independent speaker separation**, *ICASSP'22* [[pdf](https://web.cse.ohio-state.edu/~wang.77/papers/TTW.icassp22.pdf)]
+<br><i>Hassan Taherian</i>, Ke Tan, and DeLiang Wang
+0. **A causal and talker-independent speaker separation/dereverberation deep learning algorithm: Cost associated with conversion to real-time capable operation**, *ICASSP'21* [[pdf](https://web.cse.ohio-state.edu/~wang.77/papers/HTJW.jasa21b.pdf)]
+<br>Eric W. Healy, <i>Hassan Taherian</i>, Eric M. Johnson, and DeLiang Wang
+0. **Deep learning based speaker separation and dereverberation can generalize across different languages to improve intelligibility**, *JASA'21* [[pdf](https://web.cse.ohio-state.edu/~wang.77/papers/HealyEtAl.jasa21.pdf)]
 <br> Eric W. Healy, Eric M. Johnson, Masood Delfarah, Divya S. Krishnagiri, Victoria A. Sevich, <i>Hassan Taherian</i>, and DeLiang Wang
 0. **Time-domain loss modulation based on overlap ratio for monaural conversational speaker separation**, *ICASSP'21* [[pdf](https://web.cse.ohio-state.edu/~wang.77/papers/Taherian-Wang.icassp21.pdf)]
 <br><i>Hassan Taherian</i> and DeLiang Wang
