@@ -20,6 +20,9 @@ This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.os
 
 Publications
 ----
+
+0. **Deep learning based speaker separation and dereverberation can generalize across different languages to improve intelligibility**, *JASA'21* [[pdf](https://web.cse.ohio-state.edu/~wang.77/papers/Taherian-Wang.icassp21.pdf)]
+<br> Eric W. Healy, Eric M. Johnson, Masood Delfarah, Divya S. Krishnagiri, Victoria A. Sevich, <i>Hassan Taherian</i>, and DeLiang Wang
 0. **Time-domain loss modulation based on overlap ratio for monaural conversational speaker separation**, *ICASSP'21* [[pdf](https://web.cse.ohio-state.edu/~wang.77/papers/Taherian-Wang.icassp21.pdf)]
 <br><i>Hassan Taherian</i> and DeLiang Wang
 0. **Robust speaker recognition based on single-channel and multi-channel speech enhancement**, *IEEE/ACM TASLP'20* [[pdf](https://web.cse.ohio-state.edu/~wang.77/papers/TWCW.taslp20.pdf)]
@@ -43,6 +46,10 @@ Research Experience
 ### Ohio State University
 <ul class='twocol' markdown='1'>
 <li>Research Assistant, Perception and Neurodynamics Laboratory, May 2018 – Present</li>
+</ul>
+### Microsoft Research
+<ul class='twocol' markdown='1'>
+<li>Research Intern, Azure Cognitive Services, May 2022 – August 2022</li>
 </ul>
 ### Microsoft Research
 <ul class='twocol' markdown='1'>
