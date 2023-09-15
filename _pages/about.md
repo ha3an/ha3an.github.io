@@ -37,7 +37,7 @@ talker-independent speaker separation. Different from widely-used PIT, the new c
 </div>
 ---
 
-### Array Geometry Agnostic Modeling
+### Microphone Array Geometry Agnostic Modeling
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding-right: 20px;">
         We utilized spatial features along with speaker embeddings for personalized speech enhancement and showed their combination significantly improved the performance for both ASR and signal quality. Furthermore, we proposed a new architecture and introduced the stream pooling layer to perform multi-channel PSE with any number and arrangement of microphones in a way where the output is invariant to the microphone order. Our proposed model consistently outperformed the geometry-dependent models. 
