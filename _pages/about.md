@@ -46,7 +46,7 @@ Patents
 
 0. Hassan Taherian, Sefik Emre Eskimez, Takuya Yoshioka, Huaming Wang, Zhuo Chen and Xuedong Huang, <i>Array Geometry Agnostic Multi-channel Personalized Speech Enhancement</i>, filed by Microsoft Corp., December 2021.
 
-0. Hassan Taherian, Jonathan Huang and Carlos M. Avendano, <i>Method and System for Detecting Sound Event Liveness Using a Microphone Array</i>, filed by Apple Inc., May 2021.
+0. Hassan Taherian, Jonathan Huang and Carlos M. Avendano, <i>Method and System for Detecting Sound Event Liveness Using a Microphone Array</i>, U.S. Patent No. 11,533,577. 20 Dec. 2022.
 
 
 
