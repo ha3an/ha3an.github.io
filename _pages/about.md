@@ -21,8 +21,13 @@ This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.os
 Publications
 ----
 
-
-0. **Multi-channel Talker-independent Speaker Separation Through Location-based Training**, *IEEE/ACM TASLP'22* [[pdf](http://web.cse.ohio-state.edu/~wang.77/papers/TTW.taslp22.pdf)]
+0. **Multi-input multi-output complex spectral mapping for speaker separation**, *Interspeech'23* [[pdf](http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf)]
+<br><i>Hassan Taherian</i>, Ashutosh Pandey, Daniel Wong, Buye Xu, and DeLiang Wang
+0. **Multi-resolution Location-based training for multi-channel continuous speech separation**, *ICASSP'23* [[pdf](http://web.cse.ohio-state.edu/~wang.77/papers/Taherian-Wang.icassp23.pdf)]
+<br><i>Hassan Taherian</i> and DeLiang Wang
+0. **Breaking the trade-off in personalized speech enhancement with cross-task knowledge distillation**, *ICASSP'23* [[pdf](https://arxiv.org/pdf/2211.02944.pdf)]
+<br><i>Hassan Taherian</i> Sefik Emre Eskimez, and Takuya Yoshioka
+0. **Multi-channel talker-independent speaker separation through location-based training**, *IEEE/ACM TASLP'22* [[pdf](http://web.cse.ohio-state.edu/~wang.77/papers/TTW.taslp22.pdf)]
 <br><i>Hassan Taherian</i>, Ke Tan, and DeLiang Wang
 0. **One model to enhance them all: array geometry agnostic multi-channel personalized speech enhancement**, *ICASSP'22* [[pdf](https://arxiv.org/pdf/2110.10330.pdf)]
 <br><i>Hassan Taherian</i>, Sefik Emre Eskimez, Takuya Yoshioka, Huaming Wang, Zhuo Chen, and Xuedong Huang
