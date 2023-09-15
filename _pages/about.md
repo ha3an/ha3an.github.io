@@ -23,10 +23,18 @@ This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.os
 ---
 
 ### Location-based Training
+
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; padding-right: 20px;">
+        Location-based Training description
+    </div>
+    <div>
+       
 <img src='/images/lbt.png' style='width:300px;' alt='Project 1 Image Description'>
+    </div>
+</div>
 
-
-Brief paragraph about Project 1. Describe the objectives, outcomes, and any notable achievements or recognition associated with this project.
 
 ---
 
