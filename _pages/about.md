@@ -22,7 +22,7 @@ Publications
 ----
 
 
-0. **Multi-channel Talker-independent Speaker Separation Through Location-based Training**, *IEEE/ACM TASLP'22* to appear,
+0. **Multi-channel Talker-independent Speaker Separation Through Location-based Training**, *IEEE/ACM TASLP'22* [[pdf](http://web.cse.ohio-state.edu/~wang.77/papers/TTW.taslp22.pdf)]
 <br><i>Hassan Taherian</i>, Ke Tan, and DeLiang Wang
 0. **One model to enhance them all: array geometry agnostic multi-channel personalized speech enhancement**, *ICASSP'22* [[pdf](https://arxiv.org/pdf/2110.10330.pdf)]
 <br><i>Hassan Taherian</i>, Sefik Emre Eskimez, Takuya Yoshioka, Huaming Wang, Zhuo Chen, and Xuedong Huang
