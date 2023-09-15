@@ -51,6 +51,7 @@ talker-independent speaker separation. Different from widely-used PIT, the new c
 <img src='/images/stream_averaging.png' style='width:300px;' alt='Project 1 Image Description'>
     </div>
 </div>
+
 Publications
 ----
 
