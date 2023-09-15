@@ -73,7 +73,7 @@ Research Experience
 
 Teaching
 ----
-### Ohio State University:
+### <img src='/images/osu_small.jpeg' style='width:38px'> Ohio State University:
 Instructor of CSE 1222 - Programming in C++
 Responsible for teaching, grading and holding office hours
 Offered in Spring 2018, and Fall 2017 (~40 enrollment)
