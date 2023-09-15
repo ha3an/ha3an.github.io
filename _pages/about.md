@@ -57,7 +57,7 @@ Patents
 
 Research Experience
 ----
-### <img src='/images/osu_small.jpeg' height='10px'> Ohio State University 
+### <img src='/images/osu_small.jpeg' height='10px', style='vertical-align:middle;'> Ohio State University 
 
 <ul class='twocol' markdown='1'>
 <li>Research Assistant, Perception and Neurodynamics Laboratory, May 2018 – Present</li>
@@ -65,9 +65,6 @@ Research Experience
 ### Microsoft Research
 <ul class='twocol' markdown='1'>
 <li>Research Intern, Azure Cognitive Services, May 2022 – August 2022</li>
-</ul>
-### Microsoft Research
-<ul class='twocol' markdown='1'>
 <li>Research Intern, Azure Cognitive Services, May 2021 – August 2021</li>
 </ul>
 ### Apple Inc.
