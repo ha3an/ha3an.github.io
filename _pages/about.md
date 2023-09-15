@@ -18,6 +18,18 @@ This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.os
 
 
 
+## Research Highlights
+
+---
+
+### Project Name 1
+![Project 1 Image Description](/images/lbt.png)
+
+Brief paragraph about Project 1. Describe the objectives, outcomes, and any notable achievements or recognition associated with this project.
+
+---
+
+
 Publications
 ----
 
