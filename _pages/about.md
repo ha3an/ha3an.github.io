@@ -57,7 +57,7 @@ Patents
 
 Research Experience
 ----
-###  <img src='/images/osu_small.jpeg' style='width:60px'>  Ohio State University 
+###  <img src='/images/osu_small.jpeg' style='width:40px'>  Ohio State University 
 <ul class='twocol' markdown='1'>
 <li>Research Assistant, Perception and Neurodynamics Laboratory, May 2018 – Present</li>
 </ul>
