@@ -19,7 +19,6 @@ This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.os
 
 
 ## Research Highlights
-
 ---
 
 ### Location-based Training
@@ -28,7 +27,9 @@ This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.os
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding-right: 20px;">
         We have proposed two novel training criteria to address the permutation ambiguity problem for multi-channel
-talker-independent speaker separation. Different from widelyused PIT, the new criteria organize DNN outputs on the basis of speaker azimuths and distances relative to a microphone array. [[Read More](http://web.cse.ohio-state.edu/~wang.77/papers/TTW.taslp22.pdf)]
+talker-independent speaker separation. Different from widelyused PIT, the new criteria organize DNN outputs on the basis of speaker azimuths and distances relative to a microphone array. 
+      <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TTW.taslp22.pdf">Read More</a>
+ 
     </div>
     <div>
        
