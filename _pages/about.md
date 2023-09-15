@@ -19,7 +19,7 @@ This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.os
 
 
 ## Research Highlights
----
+
 
 ### Location-based Training (LBT)
 
