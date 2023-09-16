@@ -8,31 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-    .project-content {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    .project-content .project-text,
-    .project-content .project-image {
-        width: 100%;
-    }
-</style>
-<style>
-    @media screen and (min-width: 768px) { /* This width (768px) is just an example. Adjust it as needed. */
-        .project-content {
-            flex-direction: row;
-        }
-        .project-content .project-text {
-            flex: 1;
-            padding-right: 20px;
-        }
-        .project-content .project-image {
-            max-width: 300px; /* or any preferred width for the image */
-        }
-    }
-</style>
 
 I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbsp;State&nbsp;University](https://cse.osu.edu/) since 2017. I have the privilege of conducting my research under the guidance of [Prof.&nbsp;DeLiang&nbsp;Wang](https://web.cse.ohio-state.edu/~wang.77/). My research interests span a variety of domains in the world of sound and speech processing:
 
