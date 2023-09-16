@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.osu.edu/) under the supervision of [Prof.&nbsp;DeLiang&nbsp;Wang](https://web.cse.ohio-state.edu/~wang.77/) at [Ohio&nbsp;State&nbsp;University](https://www.osu.edu) since 2017. My research interest revolves around:
-<ul class='twocol' style="margin-top: -1%;" markdown='1'>
-<li> Multi-channel Speech Enhancement</li>
-<li> Conversational Speaker Separation</li>
-<li> Sound Event Detection</li>
-<li> Direction of Arrival Estimation</li>
-</ul>
-
-
-
 I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbsp;State&nbsp;University](https://cse.osu.edu/) since 2017. I have the privilege of conducting my research under the guidance of [Prof.&nbsp;DeLiang&nbsp;Wang](https://web.cse.ohio-state.edu/~wang.77/). My research interests span a variety of domains in the world of sound and speech processing:
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
