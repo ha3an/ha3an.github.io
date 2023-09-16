@@ -8,6 +8,32 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+    .project-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .project-content .project-text,
+    .project-content .project-image {
+        width: 100%;
+    }
+</style>
+<style>
+    @media screen and (min-width: 768px) { /* This width (768px) is just an example. Adjust it as needed. */
+        .project-content {
+            flex-direction: row;
+        }
+        .project-content .project-text {
+            flex: 1;
+            padding-right: 20px;
+        }
+        .project-content .project-image {
+            max-width: 300px; /* or any preferred width for the image */
+        }
+    }
+</style>
+
 I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbsp;State&nbsp;University](https://cse.osu.edu/) since 2017. I have the privilege of conducting my research under the guidance of [Prof.&nbsp;DeLiang&nbsp;Wang](https://web.cse.ohio-state.edu/~wang.77/). My research interests span a variety of domains in the world of sound and speech processing:
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
@@ -22,6 +48,17 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 <a id="research_highlights"></a>
 ## Research Highlights
 ----
+
+<div class="project-content">
+    <div class="project-text">
+ We have proposed two novel training criteria to address the permutation ambiguity problem for multi-channel
+talker-independent speaker separation. Different from widely-used PIT, the new criteria organize DNN outputs on the basis of speaker azimuths and distances relative to a microphone array. 
+      <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TTW.taslp22.pdf">Read More</a>
+    </div>
+    <div class="project-image">
+<img src='/images/lbt.png' style='width:300px;' alt='Project 1 Image Description'>
+    </div>
+</div>
 
 
 ### Location-based Training (LBT)
