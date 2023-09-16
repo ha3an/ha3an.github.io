@@ -20,16 +20,16 @@ redirect_from:
     }
 </style>
 <style>
-    @media screen and (min-width: 768px) { /* This width (768px) is just an example. Adjust it as needed. */
+    @media screen and (min-width: 768px) { 
         .project-content {
-            flex-direction: row;
+            flex-direction: row-reverse; /* This reverses the order of flex items */
         }
         .project-content .project-text {
             flex: 1;
-            padding-right: 20px;
+            padding-left: 20px; /* Adjust padding to the left of the text for separation */
         }
         .project-content .project-image {
-            max-width: 300px; /* or any preferred width for the image */
+            max-width: 300px;
         }
     }
 </style>
