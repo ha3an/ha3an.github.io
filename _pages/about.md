@@ -56,9 +56,6 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 talker-independent speaker separation. Different from widely-used PIT, the new criteria organize DNN outputs on the basis of speaker azimuths and distances relative to a microphone array. 
       <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TTW.taslp22.pdf">Read More</a>
     </div>
-   
-    </div>
-    <div>
     <div class="project-image">
 <img src='/images/lbt.png' style='width:300px;' alt='Project 1 Image Description'>
     </div>
