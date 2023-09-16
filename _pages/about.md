@@ -18,6 +18,18 @@ This is Hassan Taherian, a PhD student in [Computer&nbsp;Science](https://cse.os
 
 
 
+I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbsp;State&nbsp;University](https://cse.osu.edu/) since 2017. I have the privilege of conducting my research under the guidance of [Prof.&nbsp;DeLiang&nbsp;Wang](https://web.cse.ohio-state.edu/~wang.77/). My research interests span a variety of domains in the world of sound and speech processing:
+
+<ul class='twocol' style="margin-top: -1%;" markdown='1'>
+<li>Speech Separation and Enhancement</li>
+<li>Sound Event Detection and Sound Localization</li>
+<li>Automatic Speech Recognition</li>
+<li>Speaker Recognition and Diarization</li>
+<li>Speech Synthesis</li>
+<li>Deep Learning in Audio Processing</li>
+</ul>
+
+
 ## Research Highlights
 ----
 
