@@ -49,7 +49,7 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 <a id="research_highlights"></a>
 ## Research Highlights
 ----
-
+### Location-based Training (LBT)
 <div class="project-content">
     <div class="project-text">
  We have proposed two novel training criteria to address the permutation ambiguity problem for multi-channel
@@ -60,46 +60,28 @@ talker-independent speaker separation. Different from widely-used PIT, the new c
 <img src='/images/lbt.png' style='width:300px;' alt='Project 1 Image Description'>
     </div>
 </div>
-
-
-### Location-based Training (LBT)
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; padding-right: 20px;">
-        We have proposed two novel training criteria to address the permutation ambiguity problem for multi-channel
-talker-independent speaker separation. Different from widely-used PIT, the new criteria organize DNN outputs on the basis of speaker azimuths and distances relative to a microphone array. 
-      <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TTW.taslp22.pdf">Read More</a>
- 
-    </div>
-    <div>
-       
-<img src='/images/lbt.png' style='width:300px;' alt='Project 1 Image Description'>
-    </div>
-</div>
 ---
 
 ### Microphone Array Geometry Agnostic Modeling
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; padding-right: 20px;">
-        We utilized spatial features along with speaker embeddings for personalized speech enhancement and showed their combination significantly improved the performance for both ASR and signal quality. Furthermore, we proposed a new architecture and introduced the stream pooling layer to perform multi-channel PSE with any number and arrangement of microphones in a way where the output is invariant to the microphone order. Our proposed model consistently outperformed the geometry-dependent models. 
+<div class="project-content">
+    <div class="project-text">
+ We utilized spatial features along with speaker embeddings for personalized speech enhancement and showed their combination significantly improved the performance for both ASR and signal quality. Furthermore, we proposed a new architecture and introduced the stream pooling layer to perform multi-channel PSE with any number and arrangement of microphones in a way where the output is invariant to the microphone order. Our proposed model consistently outperformed the geometry-dependent models. 
       <a href="https://arxiv.org/pdf/2110.10330.pdf">Read More</a>
- 
     </div>
-    <div>
-       
+    <div class="project-image">
 <img src='/images/stream_averaging.png' style='width:300px;' alt='Project 1 Image Description'>
     </div>
 </div>
 ---
 
+
 ### Multi-input Multi-output Complex Spectral Mapping
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; padding-right: 20px;">
-        Current deep learning based multi-channel speaker separation methods produce a monaural estimate of speaker signals captured by a reference microphone. This work presents a new multi-channel complex spectral mapping approach that simultaneously estimates the real and imaginary spectrograms of all speakers at all microphones. Experimental results show that the proposed MIMO separation model outperforms a multi-input single-output (MISO) speaker separation model with monaural estimates. The proposed approach achieves the state-of-the-art speaker separation on the open LibriCSS dataset.
+<div class="project-content">
+    <div class="project-text">
+  Current deep learning based multi-channel speaker separation methods produce a monaural estimate of speaker signals captured by a reference microphone. This work presents a new multi-channel complex spectral mapping approach that simultaneously estimates the real and imaginary spectrograms of all speakers at all microphones. Experimental results show that the proposed MIMO separation model outperforms a multi-input single-output (MISO) speaker separation model with monaural estimates. The proposed approach achieves the state-of-the-art speaker separation on the open LibriCSS dataset.
       <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf">Read More</a>
- 
     </div>
-    <div>
-       
+    <div class="project-image">
 <img src='/images/MIMO.png' style='width:300px;' alt='Project 1 Image Description'>
     </div>
 </div>
