@@ -26,10 +26,11 @@ redirect_from:
         }
         .project-content .project-text {
             flex: 1;
-            padding-left: 20px; /* Adjust padding to the left of the text for separation */
+            padding-right: 20px; /* Adjust padding to the left of the text for separation */
         }
         .project-content .project-image {
             max-width: 300px;
+          
         }
     }
 </style>
