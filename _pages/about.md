@@ -22,7 +22,7 @@ redirect_from:
 <style>
     @media screen and (min-width: 768px) { 
         .project-content {
-            flex-direction: row-reverse; /* This reverses the order of flex items */
+            flex-direction: row; /* This reverses the order of flex items */
         }
         .project-content .project-text {
             flex: 1;
