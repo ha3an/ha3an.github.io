@@ -20,7 +20,7 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 </ul>
 
 
-## Research Highlights
+## <div id="research_highlights">Research Highlights</div> 
 ----
 
 
