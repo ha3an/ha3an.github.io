@@ -66,7 +66,7 @@ talker-independent speaker separation. Different from widely-used PIT, the new c
     </div>
 </div>
 
-Publications
+## <div id="Publications">Publications</div>  
 ----
 
 0. **Multi-input multi-output complex spectral mapping for speaker separation**, *Interspeech'23* [[pdf](http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf)]
@@ -93,7 +93,7 @@ Publications
 <br><i>Hassan Taherian</i>, Zhong-Qiu Wang, and DeLiang Wang
 {: reversed="reversed"}
 
-Patents
+## <div id="Patents">Patents</div>  
 ----
 
 0. Hassan Taherian, Jonathan Huang and Carlos M. Avendano, <i>Method and System for Detecting Sound Event Liveness Using a Microphone Array</i>, U.S. Patent No. 11,533,577. 20 Dec. 2022. [[Google Patents](https://patents.google.com/patent/US11533577B2/en)]
@@ -104,8 +104,7 @@ Patents
    
 
 
-
-Research Experience
+##<div id="Experience">Research Experience</div>  
 ----
 ###  <img src='/images/osu_small.jpeg' style='width:38px'>  Ohio State University 
 <ul class='twocol' markdown='1'>
@@ -121,7 +120,7 @@ Research Experience
 <li>Research Intern, Interactive Media Group, June 2020 – August 2020</li>
 </ul>
 
-Teaching
+Teaching Experience
 ----
 ### <img src='/images/osu_small.jpeg' style='width:38px'> Ohio State University
 Instructor of CSE 1222 - Programming in C++
