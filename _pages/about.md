@@ -19,8 +19,8 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 <li>Deep Learning in Audio Processing</li>
 </ul>
 
-
-## <div id="research_highlights">Research Highlights</div> 
+<a id="research_highlights"></a>
+## Research Highlights
 ----
 
 
@@ -66,7 +66,9 @@ talker-independent speaker separation. Different from widely-used PIT, the new c
     </div>
 </div>
 
-## <div id="Publications">Publications</div>  
+
+<a id="Publications"></a>
+## Publications
 ----
 
 0. **Multi-input multi-output complex spectral mapping for speaker separation**, *Interspeech'23* [[pdf](http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf)]
@@ -93,7 +95,9 @@ talker-independent speaker separation. Different from widely-used PIT, the new c
 <br><i>Hassan Taherian</i>, Zhong-Qiu Wang, and DeLiang Wang
 {: reversed="reversed"}
 
-## <div id="Patents">Patents</div>  
+
+<a id="Patents"></a>
+## Patents
 ----
 
 0. Hassan Taherian, Jonathan Huang and Carlos M. Avendano, <i>Method and System for Detecting Sound Event Liveness Using a Microphone Array</i>, U.S. Patent No. 11,533,577. 20 Dec. 2022. [[Google Patents](https://patents.google.com/patent/US11533577B2/en)]
@@ -103,8 +107,8 @@ talker-independent speaker separation. Different from widely-used PIT, the new c
 
    
 
-
-##<div id="Experience">Research Experience</div>  
+<a id="Experience"></a>
+## Research Experience
 ----
 ###  <img src='/images/osu_small.jpeg' style='width:38px'>  Ohio State University 
 <ul class='twocol' markdown='1'>
