@@ -55,7 +55,7 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 
 <div class="project-content">
     <div class="project-text">
-      <a href="/_pages/ssnd.md">Read More</a>
+      <a href="/projects/ssnd/">Read More</a>
     </div>
 <!--     <div class="project-image">
 <img src='/images/stream_averaging.png' style='width:300px;' alt='Project 1 Image Description'>
