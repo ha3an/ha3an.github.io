@@ -2,7 +2,7 @@
 layout: blank
 title: "SSND Speech Separation Demo"
 permalink: /projects/ssnd/
-excerpt: "Demonstration of the SSND Speech Separation Model"
+excerpt: "Demonstration of the SSND Framework"
 ---
 
 <style>
@@ -16,6 +16,7 @@ excerpt: "Demonstration of the SSND Speech Separation Model"
   }
   h1, h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
   }
   .container {
     max-width: 1200px;
@@ -32,18 +33,18 @@ excerpt: "Demonstration of the SSND Speech Separation Model"
     margin-bottom: 20px;
   }
   .audio {
-    flex: 1;
+    flex-basis: 30%;
     text-align: center;
-    margin-right: 20px;
   }
   img {
-    max-width: 100%;
+    max-width: 65%;
     height: auto;
-    flex: 1;
   }
   footer {
     text-align: center;
     margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
   }
 </style>
 
@@ -53,8 +54,7 @@ excerpt: "Demonstration of the SSND Speech Separation Model"
 
   <div class="demo-section">
     <h2>Demo Example 1</h2>
-
-<p>This example is from "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording from 95s to 115s. This example contrains 3-speaker overlap which has not been seen during training. </p>
+    <p>This example is from "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording from 95s to 115s. This example contrains 3-speaker overlap which has not been seen during training. </p>
 
     <div class="demo">
       <div class="audio">
@@ -91,10 +91,9 @@ excerpt: "Demonstration of the SSND Speech Separation Model"
 
     <div class="demo">
       <div class="audio">
-        <p>Embedding Sequence Indices based on Diarization Estimates </p>
-       
+        <p>Embedding Sequence Indices based on Diarization Estimates</p>
       </div>
-      <img src="/files/demo/example_1/plot.png" alt="Spectrogram of Stream 1">
+      <img src="/files/demo/example_1/plot.png" alt="Embedding Sequence Indices">
     </div>
     
   </div>
