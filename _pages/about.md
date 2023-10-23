@@ -63,6 +63,19 @@ talker-independent speaker separation. Different from widely-used permutation in
 </div>
 ---
 
+
+### SSND demo
+
+<div class="project-content">
+    <div class="project-text">
+      <a href="/_pages/ssnd.md">Read More</a>
+    </div>
+<!--     <div class="project-image">
+<img src='/images/stream_averaging.png' style='width:300px;' alt='Project 1 Image Description'>
+    </div> -->
+</div>
+
+
 ### Microphone Array Geometry Agnostic Modeling
 <div class="project-content">
     <div class="project-text">
