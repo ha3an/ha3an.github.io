@@ -1,41 +1,17 @@
 ---
-layout: single
+layout: blank
 title: "SSND Speech Separation Demo"
 permalink: /projects/ssnd/
 excerpt: "Demonstration of the SSND Speech Separation Model"
 ---
 
-<style>
-  .demo-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .audio-container {
-    flex: 1;
-    min-width: 300px;
-    text-align: center;
-  }
-  .spectrogram {
-    width: 100%;
-    max-width: 500px;
-  }
-  footer {
-    width: 100%;
-    text-align: center;
-    margin-top: 20px;
-  }
-</style>
-
 Welcome to the SSND demo page. Here, we showcase the capabilities of our state-of-the-art speech separation model.
 
 ## Demo Example 1
 
-<div class="demo-container">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; align-items: center;">
 
-  <div class="audio-container">
+  <div style="flex: 1; min-width: 300px;">
     <p>Mixed Audio</p>
     <audio controls>
       <source src="/files/demo1/u1_mix.wav" type="audio/wav">
@@ -43,9 +19,9 @@ Welcome to the SSND demo page. Here, we showcase the capabilities of our state-o
     </audio>
   </div>
   
-  <img class="spectrogram" src="/files/demo1/spec_mix.png/spec_mix.png-1.png" alt="Spectrogram of Mixed Audio">
+  <img src="/files/demo1/spec_mix.png/spec_mix.png-1.png" alt="Spectrogram of Mixed Audio" style="width: 30%; min-width: 200px;">
   
-  <div class="audio-container">
+  <div style="flex: 1; min-width: 300px;">
     <p>Separated Audio Stream 1</p>
     <audio controls>
       <source src="/files/demo1/u1_s1.wav" type="audio/wav">
@@ -53,9 +29,9 @@ Welcome to the SSND demo page. Here, we showcase the capabilities of our state-o
     </audio>
   </div>
   
-  <img class="spectrogram" src="/files/demo1/spec_mix.png/spec_mix.png-2.png" alt="Spectrogram of Stream 1">
+  <img src="/files/demo1/spec_mix.png/spec_mix.png-2.png" alt="Spectrogram of Stream 1" style="width: 30%; min-width: 200px;">
   
-  <div class="audio-container">
+  <div style="flex: 1; min-width: 300px;">
     <p>Separated Audio Stream 2</p>
     <audio controls>
       <source src="/files/demo1/u1_s2.wav" type="audio/wav">
@@ -63,10 +39,10 @@ Welcome to the SSND demo page. Here, we showcase the capabilities of our state-o
     </audio>
   </div>
   
-  <img class="spectrogram" src="/files/demo1/spec_mix.png/spec_mix.png-3.png" alt="Spectrogram of Stream 2">
+  <img src="/files/demo1/spec_mix.png/spec_mix.png-3.png" alt="Spectrogram of Stream 2" style="width: 30%; min-width: 200px;">
   
 </div>
 
 <footer>
-  <p>&copy; 2023 Hassan Taherian</p>
+    <p>&copy; 2023 Hassan Taherian</p>
 </footer>
