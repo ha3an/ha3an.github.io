@@ -1,12 +1,8 @@
-
 ---
 layout: single
 title: "SSND Project"
 permalink: /projects/ssnd/
 excerpt: "A brief description of the SSND Project."
-toc: true
-toc_sticky: true
-toc_label: "On this page"
 ---
 
 # SSND Project
