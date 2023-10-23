@@ -5,23 +5,39 @@ permalink: /projects/ssnd/
 excerpt: "A brief description of the SSND Project."
 ---
 
-# SSND Project
-Welcome to the SSND Project page. Here you will find all the information you need about this project.
+<header>
+    <h1>SSND Demo</h1>
+</header>
 
-## Overview
-This is overview
+<section class="audio-demo">
+    <h2>Mixed Audio</h2>
+    <audio controls>
+        <source src="/path/to/files/demo1/u1_mix.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+</section>
 
-![SSND Device](/path/to/your/image.jpg)
-*Image Caption: The SSND Device.*
+<section class="separated-audio">
+    <h2>Separated Audio Streams</h2>
+    <audio controls>
+        <source src="/path/to/files/demo1/u1_s1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+        <source src="/path/to/files/demo1/u1_s2.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+</section>
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+<section class="spectrograms">
+    <h2>Spectrograms</h2>
+    <img src="/path/to/files/demo1/spec_mix.png/spec_mix.png-2.png" alt="Spectrogram Stream 1">
+    <img src="/path/to/files/demo1/spec_mix.png/spec_mix.png-3.png" alt="Spectrogram Stream 2">
+</section>
 
-## Contact
-For more information, please [contact us](mailto:ha3an.t@gmail.com).
-
+<footer>
+    <p>&copy; 2023 Hassan Taherian</p>
+</footer>
 
 
     
