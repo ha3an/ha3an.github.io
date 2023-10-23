@@ -54,38 +54,49 @@ excerpt: "Demonstration of the SSND Speech Separation Model"
   <div class="demo-section">
     <h2>Demo Example 1</h2>
 
+<p>This example is from "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording from 95s to 115s </p>
+
     <div class="demo">
       <div class="audio">
         <p>Mixed Audio</p>
         <audio controls>
-          <source src="/files/demo1/u1_mix.wav" type="audio/wav">
+          <source src="/files/demo/example_1/segment_mixch0.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
       </div>
-      <img src="/files/demo1/spec_mix.png/spec_mix.png-1.png" alt="Spectrogram of Mixed Audio">
+      <img src="/files/demo/example_1/Spec_mix.png" alt="Spectrogram of Mixed Audio">
     </div>
     
     <div class="demo">
       <div class="audio">
         <p>Separated Audio Stream 1</p>
         <audio controls>
-          <source src="/files/demo1/u1_s1.wav" type="audio/wav">
+          <source src="/files/demo/example_1/segment_0.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
       </div>
-      <img src="/files/demo1/spec_mix.png/spec_mix.png-2.png" alt="Spectrogram of Stream 1">
+      <img src="/files/demo/example_1/Spec_1.png" alt="Spectrogram of Stream 1">
     </div>
     
     <div class="demo">
       <div class="audio">
         <p>Separated Audio Stream 2</p>
         <audio controls>
-          <source src="/files/demo1/u1_s2.wav" type="audio/wav">
+          <source src="/files/demo/example_1/segment_1.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
       </div>
-      <img src="/files/demo1/spec_mix.png/spec_mix.png-3.png" alt="Spectrogram of Stream 2">
+      <img src="/files/demo/example_1/Spec_2.png" alt="Spectrogram of Stream 2">
     </div>
+
+    <div class="demo">
+      <div class="audio">
+        <p>Embedding Sequence Indices based on Diarization Estimates </p>
+       
+      </div>
+      <img src="/files/demo/example_1/plot.png" alt="Spectrogram of Stream 1">
+    </div>
+    
   </div>
 </div>
 
