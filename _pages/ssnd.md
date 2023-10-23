@@ -54,7 +54,7 @@ excerpt: "Demonstration of the SSND Speech Separation Model"
   <div class="demo-section">
     <h2>Demo Example 1</h2>
 
-<p>This example is from "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording from 95s to 115s </p>
+<p>This example is from "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording from 95s to 115s. This example contrains 3-speaker overlap which has not been seen during training. </p>
 
     <div class="demo">
       <div class="audio">
