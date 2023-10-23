@@ -49,6 +49,18 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 
 <a id="research_highlights"></a>
 ## Research Highlights
+
+
+### SSND demo
+
+<div class="project-content">
+    <div class="project-text">
+      <a href="/_pages/ssnd.md">Read More</a>
+    </div>
+<!--     <div class="project-image">
+<img src='/images/stream_averaging.png' style='width:300px;' alt='Project 1 Image Description'>
+    </div> -->
+</div>
 ----
 ### Location-based Training (LBT)
 <div class="project-content">
@@ -62,20 +74,6 @@ talker-independent speaker separation. Different from widely-used permutation in
     </div>
 </div>
 ---
-
-
-### SSND demo
-
-<div class="project-content">
-    <div class="project-text">
-      <a href="/_pages/ssnd.md">Read More</a>
-    </div>
-<!--     <div class="project-image">
-<img src='/images/stream_averaging.png' style='width:300px;' alt='Project 1 Image Description'>
-    </div> -->
-</div>
-
-
 ### Microphone Array Geometry Agnostic Modeling
 <div class="project-content">
     <div class="project-text">
