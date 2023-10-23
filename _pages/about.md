@@ -52,7 +52,7 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 
 
 ### SSND demo
-
+You can learn more about the SSND project [here](/projects/ssnd/).
 <div class="project-content">
     <div class="project-text">
       <a href="/projects/ssnd/">Read More</a>
