@@ -51,16 +51,16 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 ## Research Highlights
 
 
-### SSND demo
+<!-- ### SSND demo
 You can learn more about the SSND project [here](/projects/ssnd/).
 <div class="project-content">
     <div class="project-text">
       <a href="/projects/ssnd/">Read More</a>
     </div>
-<!--     <div class="project-image">
+    <div class="project-image">
 <img src='/images/stream_averaging.png' style='width:300px;' alt='Project 1 Image Description'>
-    </div> -->
-</div>
+    </div>
+</div>  -->
 ----
 ### Location-based Training (LBT)
 <div class="project-content">
