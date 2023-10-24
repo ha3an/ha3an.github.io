@@ -55,8 +55,57 @@ excerpt: "Demonstration of the SSND Framework"
 <footer></footer>
 
 
+
 <div class="demo-section">
-    <h2>Example 1: Handling 3-Fold Speech Overlap</h2>
+  <h2>Example 2</h2>
+  <p>  This segment is from the "overlap_ratio_0.0_sil0.1_0.5_session4_actual0.0" recording of the LibriCSS dataset, spanning from 320s to 345s, which encompasses speech from seven unique speakers. The entire segment is processed through the SSND framework. Note that the estimated speakers boundaries extend beyond the actual limits of their speech.   </p>
+
+<div class="demo">
+    <div class="audio">
+      <h4>Reverberant Mixed Audio</h4>
+      <audio controls>
+        <source src="/files/demo/example_2/segment_mixch0.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+    <img src="/files/demo/example_2/Spec_mix.png" alt="Spectrogram of Mixed Audio">
+  </div>
+  
+  <div class="demo">
+    <div class="audio">
+      <h4>Separated Audio Stream 1</h4>
+      <audio controls>
+        <source src="/files/demo/example_2/segment_0.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+    <img src="/files/demo/example_2/Spec_1.png" alt="Spectrogram of Stream 1">
+  </div>
+  
+  <div class="demo">
+    <div class="audio">
+      <h4>Separated Audio Stream 2</h4>
+      <audio controls>
+        <source src="/files/demo/example_2/segment_1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+    <img src="/files/demo/example_2/Spec_2.png" alt="Spectrogram of Stream 2">
+  </div>
+
+  <div class="demo">
+    <div class="audio">
+      <h4>Embedding Sequence Indices based on Diarization Estimates</h4>
+    </div>
+    <img src="/files/demo/example_2/plot.png" alt="Embedding Sequence Indices">
+  </div>
+  
+</div>
+
+<footer></footer>
+
+<div class="demo-section">
+    <h2>Example 3</h2>
     <p>This example, taken from the "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording of the LibriCSS dataset (from 95s to 115s), presents a challenging scenario with 3-fold speech overlap. Although the SSND model is trained with examples containing only two-speaker overlap, it isolates one speaker in one stream while maintaining the remaining speakers in the other stream. Listen and observe the results below.</p>
 
  <div class="demo">
@@ -100,6 +149,7 @@ excerpt: "Demonstration of the SSND Framework"
     </div>
     
   </div>
+
 </div>
 
 
