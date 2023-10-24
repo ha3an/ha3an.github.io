@@ -50,7 +50,7 @@ excerpt: "Demonstration of the SSND Framework"
 
 <div class="container">
   <h1>Speaker Separation via Neural Diarization (SSND) Demo</h1>
-  <p>We introduce the SSND framework, a novel approach that seamlessly integrates speaker diarization with speaker separation. Our SSND framework achieves state-of-the-art performance for speaker-attributed ASR on LibriCSS dataset. Here, we showcase several examples taken from LibriCSS processed with SSND.
+  <p>We introduce the SSND framework, a novel approach that seamlessly integrates speaker diarization with speaker separation. Our SSND framework achieves state-of-the-art performance for speaker-attributed ASR on LibriCSS dataset. Here, we showcase several examples taken from LibriCSS processed with SSND. In all examples, the entire segment is processed through the SSND framework without any chunking.
     <!-- <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf">Learn More</a> </p> -->
 
 
@@ -105,7 +105,7 @@ excerpt: "Demonstration of the SSND Framework"
 <footer></footer>
 <div class="demo-section">
   <h2>Example 2</h2>
-  <p>  This segment is from the "overlap_ratio_0.0_sil0.1_0.5_session4_actual0.0" recording of the LibriCSS dataset, spanning from 320s to 345s, which encompasses speech from seven unique speakers with no speech overlap. The entire segment is processed through the SSND framework. Note that the estimated speakers boundaries extend slightly beyond the actual limits of their speech.   </p>
+  <p>  This segment is from the "overlap_ratio_0.0_sil0.1_0.5_session4_actual0.0" recording of the LibriCSS dataset, spanning from 320s to 345s, which encompasses speech from seven unique speakers with no speech overlap. Note that the estimated speakers boundaries extend slightly beyond the actual limits of their speech.   </p>
 
 <div class="demo">
     <div class="audio">
