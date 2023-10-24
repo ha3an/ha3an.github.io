@@ -53,8 +53,8 @@ excerpt: "Demonstration of the SSND Framework"
   <p>We introduce the SSND framework, a novel approach that seamlessly integrates speaker diarization with speaker separation, making it well-suited for speaker-attributed ASR. Our SSND framework achieves state-of-the-art performance for speaker-attributed ASR on LibriCSS dataset. Here, we showcase the capabilities of our state-of-the-art convesational speaker separation framework.</p>
 
   <div class="demo-section">
-    <h2>Demo Example 1</h2>
-    <p>This example is from "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording from 95s to 115s. This example contrains 3-speaker overlap which has not been seen during training. </p>
+    <h2>Example 1: Handling 3-fold speech overlap</h2>
+    <p>This example is from LibriCSS "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording from 95s to 115s. This test example contains 3-fold speech overlap. SSND is trained examples that contains two-speaker overlap. We can hear from the recording the model successfully one speaker in on stream and keep the rest speakers in the other stream.  </p>
 
     <div class="demo">
       <div class="audio">
