@@ -164,7 +164,6 @@ excerpt: "Demonstration of the SSND Framework"
       </div>
       <img src="/files/demo/example_1/Spec_mix.png" alt="Spectrogram of Mixed Audio">
     </div>
-    
     <div class="demo">
       <div class="audio">
         <h4>Separated Audio Stream 1</h4>
@@ -175,7 +174,6 @@ excerpt: "Demonstration of the SSND Framework"
       </div>
       <img src="/files/demo/example_1/Spec_1.png" alt="Spectrogram of Stream 1">
     </div>
-    
     <div class="demo">
       <div class="audio">
         <h4>Separated Audio Stream 2</h4>
@@ -186,7 +184,6 @@ excerpt: "Demonstration of the SSND Framework"
       </div>
       <img src="/files/demo/example_1/Spec_2.png" alt="Spectrogram of Stream 2">
     </div>
-
     <div class="demo">
       <div class="audio">
         <h4>Embedding Sequence Indices based on Diarization Estimates</h4>
