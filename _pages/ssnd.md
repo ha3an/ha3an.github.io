@@ -49,8 +49,8 @@ excerpt: "Demonstration of the SSND Framework"
 </style>
 
 <div class="container">
-  <h1>SSND Speech Separation Demo</h1>
-  <p>Welcome to the SSND demo page. Here, we showcase the capabilities of our state-of-the-art speech separation model.</p>
+  <h1>Speaker Separation via Neural Diarization (SSND) Demo</h1>
+  <p>We introduce the SSND framework, a novel approach that seamlessly integrates speaker diarization with speaker separation, making it well-suited for speaker-attributed ASR. Our SSND framework achieves state-of-the-art performance for speaker-attributed ASR on LibriCSS dataset. Here, we showcase the capabilities of our state-of-the-art convesational speaker separation framework.</p>
 
   <div class="demo-section">
     <h2>Demo Example 1</h2>
