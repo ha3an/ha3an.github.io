@@ -193,7 +193,7 @@ excerpt: "Demonstration of the SSND Framework"
     
   </div>
 
-</div>
+
 
 
 <footer>
