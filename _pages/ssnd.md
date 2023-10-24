@@ -46,7 +46,31 @@ excerpt: "Demonstration of the SSND Framework"
     padding-top: 20px;
     border-top: 1px solid #ccc;
   }
+  .paper-info {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 10px 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.paper-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.authors {
+  font-style: italic;
+}
 </style>
+
+<div class="paper-info">
+  <h1 class="paper-title">Conversational Speaker Separation via Neural Diarization</h1>
+  <div class="authors">
+    <p>Hassan Taherian, and DeLiang Wang</p>
+  </div>
+</div>
+
 
 <div class="container">
   <h1>Speaker Separation via Neural Diarization (SSND) Demo</h1>
