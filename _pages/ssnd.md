@@ -67,7 +67,7 @@ excerpt: "Demonstration of the SSND Framework"
         Your browser does not support the audio element.
       </audio>
     </div>
-    <img src="/files/demo/example_3/Spec_mix.png" alt="Spectrogram of Mixed Audio">
+    <img src="/files/demo/example_3/Spec_3.png" alt="Spectrogram of Mixed Audio">
   </div>
   
   <div class="demo">
