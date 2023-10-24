@@ -50,15 +50,15 @@ excerpt: "Demonstration of the SSND Framework"
 
 <div class="container">
   <h1>Speaker Separation via Neural Diarization (SSND) Demo</h1>
-  <p>We introduce the SSND framework, a novel approach that seamlessly integrates speaker diarization with speaker separation, making it well-suited for speaker-attributed ASR. Our SSND framework achieves state-of-the-art performance for speaker-attributed ASR on LibriCSS dataset. Here, we showcase the capabilities of our state-of-the-art convesational speaker separation framework. <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf">Read More</a> </p>
+  <p>We introduce the SSND framework, a novel approach that seamlessly integrates speaker diarization with speaker separation. Our SSND framework achieves state-of-the-art performance for speaker-attributed ASR on LibriCSS dataset. Here, we showcase the capabilities of our state-of-the-art convesational speaker separation framework. <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf">Learn More</a> </p>
 
-  <div class="demo-section">
-    <h2>Example 1: Handling 3-fold speech overlap</h2>
-    <p>This example is from LibriCSS "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording from 95s to 115s. This test example contains 3-fold speech overlap. SSND is trained examples that contains two-speaker overlap. We can hear from the recording the model successfully one speaker in on stream and keep the rest speakers in the other stream.  </p>
+<div class="demo-section">
+    <h2>Example 1: Handling 3-Fold Speech Overlap</h2>
+    <p>This example, taken from the "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording of the LibriCSS dataset (from 95s to 115s), presents a challenging scenario with 3-fold speech overlap. Although the SSND model is trained with examples containing only two-speaker overlap, it isolates one speaker in one stream while maintaining the remaining speakers in the other stream. Listen and observe the results below.</p>
 
-    <div class="demo">
+ <div class="demo">
       <div class="audio">
-        <p>Mixed Audio</p>
+        <h4>Mixed Audio</h4>
         <audio controls>
           <source src="/files/demo/example_1/segment_mixch0.wav" type="audio/wav">
           Your browser does not support the audio element.
@@ -98,6 +98,7 @@ excerpt: "Demonstration of the SSND Framework"
     
   </div>
 </div>
+
 
 <footer>
   <p>&copy; 2023 Hassan Taherian</p>
