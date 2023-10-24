@@ -62,6 +62,29 @@ excerpt: "Demonstration of the SSND Framework"
 .authors {
   font-style: italic;
 }
+
+  .ieee-style {
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+    margin-top: 30px;
+}
+
+.ieee-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.ieee-author {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.ieee-affiliation {
+    font-size: 16px;
+    font-style: italic;
+}
+
 </style>
 
 <div class="paper-info">
@@ -69,6 +92,15 @@ excerpt: "Demonstration of the SSND Framework"
   <div class="authors">
     <p>Hassan Taherian, and DeLiang Wang</p>
   </div>
+</div>
+
+<div class="ieee-style">
+    <h1 class="ieee-title">Conversational Speaker Separation via Neural Diarization</h1>
+    <p class="ieee-author">Hassan Taherian, and DeLiang Wang,</p>
+    <p class="ieee-affiliation">
+        Department of Computer Science and Engineering,<br>
+        The Ohio State University, USA
+    </p>
 </div>
 
 
