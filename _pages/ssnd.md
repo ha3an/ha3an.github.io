@@ -46,22 +46,6 @@ excerpt: "Demonstration of the SSND Framework"
     padding-top: 20px;
     border-top: 1px solid #ccc;
   }
-  .paper-info {
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-  padding: 10px 0;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.paper-title {
-  font-size: 1.5em;
-  margin-bottom: 10px;
-}
-
-.authors {
-  font-style: italic;
-}
 
   .ieee-style {
     font-family: 'Times New Roman', Times, serif; 
@@ -89,6 +73,25 @@ excerpt: "Demonstration of the SSND Framework"
 .ieee-affiliation {
     font-size: 16px;
     font-style: italic;
+}
+
+  
+.demo {
+  display: flex;
+  flex-direction: row;  /* default direction */
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {  /* Adjust as needed */
+  .demo {
+    flex-direction: column;  /* stack children vertically */
+  }
+
+  .audio, img {
+    max-width: 100%;  /* adjust width for small screens */
+  }
 }
 
 </style>
