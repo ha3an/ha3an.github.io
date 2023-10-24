@@ -52,13 +52,16 @@ excerpt: "Demonstration of the SSND Framework"
   <h1>Speaker Separation via Neural Diarization (SSND) Demo</h1>
   <p>We introduce the SSND framework, a novel approach that seamlessly integrates speaker diarization with speaker separation. Our SSND framework achieves state-of-the-art performance for speaker-attributed ASR on LibriCSS dataset. Here, we showcase the capabilities of our state-of-the-art convesational speaker separation framework. <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf">Learn More</a> </p>
 
+<footer></footer>
+
+
 <div class="demo-section">
     <h2>Example 1: Handling 3-Fold Speech Overlap</h2>
     <p>This example, taken from the "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording of the LibriCSS dataset (from 95s to 115s), presents a challenging scenario with 3-fold speech overlap. Although the SSND model is trained with examples containing only two-speaker overlap, it isolates one speaker in one stream while maintaining the remaining speakers in the other stream. Listen and observe the results below.</p>
 
  <div class="demo">
       <div class="audio">
-        <h4>Mixed Audio</h4>
+        <h4>Reverberant Mixed Audio</h4>
         <audio controls>
           <source src="/files/demo/example_1/segment_mixch0.wav" type="audio/wav">
           Your browser does not support the audio element.
@@ -69,7 +72,7 @@ excerpt: "Demonstration of the SSND Framework"
     
     <div class="demo">
       <div class="audio">
-        <p>Separated Audio Stream 1</p>
+        <h4>Separated Audio Stream 1</h4>
         <audio controls>
           <source src="/files/demo/example_1/segment_0.wav" type="audio/wav">
           Your browser does not support the audio element.
@@ -80,7 +83,7 @@ excerpt: "Demonstration of the SSND Framework"
     
     <div class="demo">
       <div class="audio">
-        <p>Separated Audio Stream 2</p>
+        <h4>Separated Audio Stream 2</h4>
         <audio controls>
           <source src="/files/demo/example_1/segment_1.wav" type="audio/wav">
           Your browser does not support the audio element.
@@ -91,7 +94,7 @@ excerpt: "Demonstration of the SSND Framework"
 
     <div class="demo">
       <div class="audio">
-        <p>Embedding Sequence Indices based on Diarization Estimates</p>
+        <h4>Embedding Sequence Indices based on Diarization Estimates</h4>
       </div>
       <img src="/files/demo/example_1/plot.png" alt="Embedding Sequence Indices">
     </div>
