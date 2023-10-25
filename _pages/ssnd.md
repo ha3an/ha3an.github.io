@@ -123,7 +123,7 @@ excerpt: "Demonstration of the SSND Framework"
     <div class="audio">
       <h4>Reverberant Mixed Audio</h4>
       <audio controls>
-        <source src="/files/demo/example_3/segment_mixch0.wav" type="audio/wav">
+        <source src="/files/demo/example_3/segment_mixch0_15db.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </div>
@@ -134,7 +134,7 @@ excerpt: "Demonstration of the SSND Framework"
     <div class="audio">
       <h4>Separated Audio Stream 1</h4>
       <audio controls>
-        <source src="/files/demo/example_3/segment_0.wav" type="audio/wav">
+        <source src="/files/demo/example_3/segment_0_15db.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </div>
@@ -145,7 +145,7 @@ excerpt: "Demonstration of the SSND Framework"
     <div class="audio">
       <h4>Separated Audio Stream 2</h4>
       <audio controls>
-        <source src="/files/demo/example_3/segment_1.wav" type="audio/wav">
+        <source src="/files/demo/example_3/segment_1_15db.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </div>
@@ -171,7 +171,7 @@ excerpt: "Demonstration of the SSND Framework"
     <div class="audio">
       <h4>Reverberant Mixed Audio</h4>
       <audio controls>
-        <source src="/files/demo/example_2/segment_mixch0.wav" type="audio/wav">
+        <source src="/files/demo/example_2/segment_mixch0_15db.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </div>
@@ -182,7 +182,7 @@ excerpt: "Demonstration of the SSND Framework"
     <div class="audio">
       <h4>Separated Audio Stream 1</h4>
       <audio controls>
-        <source src="/files/demo/example_2/segment_0.wav" type="audio/wav">
+        <source src="/files/demo/example_2/segment_0_15db.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </div>
@@ -193,7 +193,7 @@ excerpt: "Demonstration of the SSND Framework"
     <div class="audio">
       <h4>Separated Audio Stream 2</h4>
       <audio controls>
-        <source src="/files/demo/example_2/segment_1.wav" type="audio/wav">
+        <source src="/files/demo/example_2/segment_1_15db.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </div>
@@ -218,7 +218,7 @@ excerpt: "Demonstration of the SSND Framework"
       <div class="audio">
         <h4>Reverberant Mixed Audio</h4>
         <audio controls>
-          <source src="/files/demo/example_1/segment_mixch0.wav" type="audio/wav">
+          <source src="/files/demo/example_1/segment_mixch0_15db.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
       </div>
@@ -228,7 +228,7 @@ excerpt: "Demonstration of the SSND Framework"
       <div class="audio">
         <h4>Separated Audio Stream 1</h4>
         <audio controls>
-          <source src="/files/demo/example_1/segment_0.wav" type="audio/wav">
+          <source src="/files/demo/example_1/segment_0_15db.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
       </div>
@@ -238,7 +238,7 @@ excerpt: "Demonstration of the SSND Framework"
       <div class="audio">
         <h4>Separated Audio Stream 2</h4>
         <audio controls>
-          <source src="/files/demo/example_1/segment_1.wav" type="audio/wav">
+          <source src="/files/demo/example_1/segment_1_15db.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
       </div>
