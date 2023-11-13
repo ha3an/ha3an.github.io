@@ -116,14 +116,13 @@ excerpt: "Demonstration of the SSND Framework"
 
 
 <p class="justified-text">We introduce a new framework, termed ``speaker separation via neural diarization" (SSND), for multi-channel conversational speaker separation.  This approach employs a deep neural network (DNN) for speaker diarization to demarcate the speech activities of individual speakers. Leveraging the estimated utterance boundaries from neural diarization, we generate a sequence of speaker embeddings. These embeddings, in turn, facilitate the assignment of speakers to two output streams of the separation model. The SSND approach tackles the permutation ambiguity issue of talker-independent separation during the diarization phase, rather than during separation. This distinction permits non-overlapped speakers to be assigned to the same output stream, enabling the processing long recordings missing from standard CSS.  Another advantage of SSND lies in the inherent integration of speaker separation and diarization, enabling sequential grouping of the discontinuous utterances of the same talker.
-
-Our SSND framework achieves state-of-the-art diarization and ASR results, surpassing all existing CSS based methods on the open LibriCSS dataset</p>
+Our SSND framework achieves state-of-the-art diarization and ASR results, surpassing all existing  methods on the open LibriCSS dataset</p>
 
 
 
 <div class="demo-section">
   <h2>Example 1</h2>
-  <p>  This segment is from the "overlap_ratio_40.0_sil0.1_1.0_session1_actual39.7" recording of the LibriCSS dataset, spanning from 225s to 255s, with 40% overlap ratio.   </p>
+  <p class="justified-text">  This segment is from the "overlap_ratio_40.0_sil0.1_1.0_session1_actual39.7" recording of the LibriCSS dataset, spanning from 225s to 255s, with 40% overlap ratio.   </p>
 
 <div class="demo">
     <div class="audio">
@@ -171,7 +170,7 @@ Our SSND framework achieves state-of-the-art diarization and ASR results, surpas
 <footer></footer>
 <div class="demo-section">
   <h2>Example 2</h2>
-  <p>  This segment is from the "overlap_ratio_0.0_sil0.1_0.5_session4_actual0.0" recording of the LibriCSS dataset, spanning from 320s to 345s, which encompasses speech from seven unique speakers with no speech overlap. Note that the estimated speakers boundaries extend slightly beyond the actual limits of their speech.   </p>
+  <p class="justified-text">  This segment is from the "overlap_ratio_0.0_sil0.1_0.5_session4_actual0.0" recording of the LibriCSS dataset, spanning from 320s to 345s, which encompasses speech from seven unique speakers with no speech overlap. Note that the estimated speakers boundaries extend slightly beyond the actual limits of their speech.   </p>
 
 <div class="demo">
     <div class="audio">
@@ -218,7 +217,7 @@ Our SSND framework achieves state-of-the-art diarization and ASR results, surpas
 <footer></footer>
 <div class="demo-section">
     <h2>Example 3</h2>
-    <p>This example, taken from the "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording of the LibriCSS dataset (from 95s to 115s), presents a challenging scenario with 3-fold speech overlap. Although the SSND model is trained with examples containing only two-speaker overlap, it isolates one speaker in one stream while maintaining the remaining speakers in the other stream. Listen and observe the results below.</p>
+    <p class="justified-text">This example, taken from the "overlap_ratio_40.0_sil0.1_1.0_session9_actual39.9" recording of the LibriCSS dataset (from 95s to 115s), presents a challenging scenario with 3-fold speech overlap. Although the SSND model is trained with examples containing only two-speaker overlap, it isolates one speaker in one stream while maintaining the remaining speakers in the other stream. Listen and observe the results below.</p>
 
  <div class="demo">
       <div class="audio">
