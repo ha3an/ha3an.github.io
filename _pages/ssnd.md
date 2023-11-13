@@ -98,7 +98,7 @@ excerpt: "Demonstration of the SSND Framework"
 
 
 <div class="ieee-style">
-    <h1 class="ieee-title">Conversational Speaker Separation via Neural Diarization</h1>
+    <h1 class="ieee-title">Multi-channel Conversational Speaker Separation via Neural Diarization</h1>
     <p class="ieee-author">Hassan Taherian, and DeLiang Wang</p>
     <p class="ieee-affiliation">
         Department of Computer Science and Engineering,<br>
@@ -110,8 +110,12 @@ excerpt: "Demonstration of the SSND Framework"
 
 <div class="container">
 <!--   <h1>Speaker Separation via Neural Diarization (SSND) Demo</h1> -->
-  <p>We introduce the speaker separation via neural diarization (SSND) framework, a novel approach that seamlessly integrates speaker diarization with speaker separation. Our SSND framework achieves state-of-the-art performance for speaker-attributed ASR on LibriCSS dataset. Here, we showcase several examples taken from LibriCSS processed with SSND. In all examples, the entire segment is processed through the SSND framework without any chunking.
+<!--   <p>We introduce the speaker separation via neural diarization (SSND) framework, a novel approach that seamlessly integrates speaker diarization with speaker separation. Our SSND framework achieves state-of-the-art performance for speaker-attributed ASR on LibriCSS dataset. Here, we showcase several examples taken from LibriCSS processed with SSND. In all examples, the entire segment is processed through the SSND framework without any chunking. -->
 
+
+<p>We introduce a new framework, termed ``speaker separation via neural diarization" (SSND), for multi-channel conversational speaker separation.  This approach employs a deep neural network (DNN) for speaker diarization to demarcate the speech activities of individual speakers. Leveraging the estimated utterance boundaries from neural diarization, we generate a sequence of speaker embeddings. These embeddings, in turn, facilitate the assignment of speakers to two output streams of the separation model. The SSND approach tackles the permutation ambiguity issue of talker-independent separation during the diarization phase, rather than during separation. This distinction permits non-overlapped speakers to be assigned to the same output stream, enabling the processing long recordings missing from standard CSS.  Another advantage of SSND lies in the inherent integration of speaker separation and diarization, enabling sequential grouping of the discontinuous utterances of the same talker.
+
+Our SSND framework achieves state-of-the-art diarization and ASR results, surpassing all existing CSS based methods on the open LibriCSS dataset</p>
 
 
 
