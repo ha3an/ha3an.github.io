@@ -57,7 +57,7 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 ### Conversational Speaker Separation via Neural Diarization
 <div class="project-content">
     <div class="project-text">
-       <p class="justified-text"> We introduce a new framework, termed ``speaker separation via neural diarization" (SSND), for multi-channel conversational speaker separation.  This approach employs a deep neural network (DNN) for speaker diarization to demarcate the speech activities of individual speakers. Leveraging the estimated utterance boundaries from neural diarization, we generate a sequence of speaker embeddings. These embeddings, in turn, facilitate the assignment of speakers to two output streams of the separation model. Our SSND framework achieves state-of-the-art diarization and ASR results, surpassing all existing  methods on the open LibriCSS dataset.
+       <p class="justified-text"> We introduce a new framework, termed ``speaker separation via neural diarization" (SSND), for multi-channel conversational speaker separation. The proposed SSND framework achieves state-of-the-art diarization and ASR results, surpassing all existing  methods on the open LibriCSS dataset.
       <a href="/projects/ssnd/">Read More</a>
     </div>
     <div class="project-image">
