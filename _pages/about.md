@@ -58,7 +58,7 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 <div class="project-content">
     <div class="project-text">
        <p class="justified-text"> We introduce a new framework, termed ``speaker separation via neural diarization" (SSND), for multi-channel conversational speaker separation. The proposed SSND framework achieves state-of-the-art diarization and ASR results, surpassing all existing  methods on the open LibriCSS dataset.
-      <a href="/projects/ssnd/">Read More</a>
+      <a href="/projects/ssnd/">Read More</a>  </p>
     </div>
     <div class="project-image">
 <img src='/images/diar_sep_small-02.png' style='width:300px;' alt='Project 0 Image Description'>
