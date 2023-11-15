@@ -64,7 +64,7 @@ Our SSND framework achieves state-of-the-art diarization and ASR results, surpas
       <a href="/projects/ssnd/">Read More</a>
     </div>
     <div class="project-image">
-<img src='/images/stream_averaging.png' style='width:300px;' alt='Project 0 Image Description'>
+<img src='/images/diarSEP_diagram-01.png' style='width:300px;' alt='Project 0 Image Description'>
     </div>
 </div>  
 ----
