@@ -33,6 +33,9 @@ redirect_from:
           
         }
     }
+           .justified-text {
+            text-align: justify;
+        }
 </style>
 
 
@@ -51,16 +54,19 @@ I am Hassan Taherian, currently pursuing my PhD in Computer Science at [Ohio&nbs
 ## Research Highlights
 
 
-<!-- ### SSND demo
-You can learn more about the SSND project [here](/projects/ssnd/).
+ ### Conversational Speaker Separation via Neural Diarization
+
+
+<p class="justified-text"> We introduce a new framework, termed ``speaker separation via neural diarization" (SSND), for multi-channel conversational speaker separation.  This approach employs a deep neural network (DNN) for speaker diarization to demarcate the speech activities of individual speakers. Leveraging the estimated utterance boundaries from neural diarization, we generate a sequence of speaker embeddings. These embeddings, in turn, facilitate the assignment of speakers to two output streams of the separation model. The SSND approach tackles the permutation ambiguity issue of talker-independent separation during the diarization phase, rather than during separation. This distinction permits non-overlapped speakers to be assigned to the same output stream, enabling the processing long recordings missing from standard CSS.  Another advantage of SSND lies in the inherent integration of speaker separation and diarization, enabling sequential grouping of the discontinuous utterances of the same talker.
+Our SSND framework achieves state-of-the-art diarization and ASR results, surpassing all existing  methods on the open LibriCSS dataset</p>
 <div class="project-content">
     <div class="project-text">
       <a href="/projects/ssnd/">Read More</a>
     </div>
     <div class="project-image">
-<img src='/images/stream_averaging.png' style='width:300px;' alt='Project 1 Image Description'>
+<img src='/images/stream_averaging.png' style='width:300px;' alt='Project 0 Image Description'>
     </div>
-</div>  -->
+</div>  
 ----
 ### Location-based Training (LBT)
 <div class="project-content">
