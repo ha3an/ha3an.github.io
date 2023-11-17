@@ -109,6 +109,9 @@ talker-independent speaker separation. Different from widely-used permutation in
 ## Publications
 ----
 
+
+0. **Multi-channel conversational speaker separation via neural diarization**, * submitted to IEEE/ACM TASLP* [[pdf](https://arxiv.org/pdf/2311.08630.pdf)]
+<br><i>Hassan Taherian</i> and DeLiang Wang
 0. **Multi-input multi-output complex spectral mapping for speaker separation**, *Interspeech'23* [[pdf](http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf)]
 <br><i>Hassan Taherian</i>, Ashutosh Pandey, Daniel Wong, Buye Xu, and DeLiang Wang
 0. **Multi-resolution Location-based training for multi-channel continuous speech separation**, *ICASSP'23* [[pdf](http://web.cse.ohio-state.edu/~wang.77/papers/Taherian-Wang.icassp23.pdf)]
