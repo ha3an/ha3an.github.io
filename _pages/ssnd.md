@@ -106,7 +106,7 @@ excerpt: "Demonstration of the SSND Framework"
         Department of Computer Science and Engineering,<br>
         The Ohio State University, USA
     </p>
-<!--      <p> <a href="http://web.cse.ohio-state.edu/~wang.77/papers/TPWXW.interspeech23.pdf">Paper on arXiv</a> </p> -->
+     <p> <a href="https://arxiv.org/pdf/2311.08630.pdf">Paper</a> </p>
 </div>
 
 
